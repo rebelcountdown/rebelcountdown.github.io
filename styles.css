@@ -1,0 +1,17 @@
+@import url("https://use.typekit.net/ktp7qfs.css");
+.body-content { margin-bottom: 65px }
+
+.newline {
+  display: block;
+}
+.navbar-custom {
+    background-color: #11294E;
+  }
+  /* change the brand and text color */
+  .navbar-custom .navbar-brand {
+    font-family: niveau-grotesk, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 1.75px 1.75px #C3423FCC;
+  }
+  
